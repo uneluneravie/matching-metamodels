@@ -27,6 +27,12 @@ public class UmlMetamodel extends Metamodel {
             "Qualidade Sistema contraste Qualidade Serviço endereça qualidade SUC completo"),
         new Element("Function Object",
             "Objeto de Função representa objeto atributo objeto domínio sistema"),
+        new Element("Domain Object",
+            "Função do Serviço aplicada objeto ou atributo de objeto"),
+        new Element("Domain Object Attribute",
+            "Função do Serviço aplicada objeto ou atributo de objeto"),
+        new Element("State",
+            ""),
     });
   }
 }
